@@ -13,11 +13,3 @@ Every lab folder includes:
 Start here: https://github.com/yirenova/video-index
 
 ---
-
-## 📚 Lab Index
-
-See: [INDEX.md](./INDEX.md)
-
----
-
-## 🧭 Folder Structure
